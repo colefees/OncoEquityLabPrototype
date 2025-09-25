@@ -22,7 +22,7 @@ const Index = () => {
                 <Shield className="h-6 w-6 text-primary-foreground" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold">CancerQC</h1>
+                <h1 className="text-2xl font-bold">OnceEquity</h1>
                 <p className="text-sm text-muted-foreground">Cancer Dataset Quality Control</p>
               </div>
             </div>
@@ -113,7 +113,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div>
-              <h3 className="font-semibold mb-3">CancerQC Platform</h3>
+              <h3 className="font-semibold mb-3">OnceEquity Platform</h3>
               <p className="text-sm text-muted-foreground">
                 Professional-grade quality control for cancer research datasets.
               </p>
@@ -135,7 +135,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t mt-8 pt-4 text-center text-sm text-muted-foreground">
-            © 2024 CancerQC. Professional dataset quality control.
+            © 2024 OnceEquity. Professional dataset quality control.
           </div>
         </div>
       </footer>
